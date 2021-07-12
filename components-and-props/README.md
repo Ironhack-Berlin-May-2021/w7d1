@@ -63,6 +63,8 @@ ReactDOM.render(
 );
 ```
 
+# Props
+
 ### Now we want to give a name to the compoment that should then be displayed much like the parameter of a function - that is called a prop in react - data that is passed from outside to the component
 
 ### Pops and class components
